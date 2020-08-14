@@ -1,0 +1,10 @@
+1024 | Average Time Measured (ms): 2.363955 | Average Counter: 261953.04
+2048 | Average Time Measured (ms): 8.846344 | Average Counter: 1048761.36
+4096 | Average Time Measured (ms): 40.380803 | Average Counter: 4198883.36
+8192 | Average Time Measured (ms): 183.860378 | Average Counter: 16750353.96
+16384 | Average Time Measured (ms): 830.435517 | Average Counter: 67149982.76
+32768 | Average Time Measured (ms): 3637.597676 | Average Counter: 268257468.80
+65536 | Average Time Measured (ms): 15177.406779 | Average Counter: 1073258550.60
+131072 | Average Time Measured (ms): 69047.183346 | Average Counter: 4293419017.76
+262144 | Average Time Measured (ms): 236129.661678 | Average Counter: 17174156576.64
+524288 | Average Time Measured (ms): 945600.287781 | Average Counter: 68743549408.52
