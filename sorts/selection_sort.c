@@ -1,3 +1,10 @@
+/* 
+ * C program for Selection Sort by GeeksforGeeks 
+ * source: https://www.geeksforgeeks.org/selection-sort/
+ *  
+ * Modified by: James Sy
+ */
+
 #include <stdio.h>
 
 unsigned long long selectionSort(int A[], int size) {

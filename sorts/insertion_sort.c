@@ -1,7 +1,10 @@
 /* 
- * C program for insertion Sort by GeeksforGeeks 
+ * C program for Insertion Sort by GeeksforGeeks 
  * source: https://www.geeksforgeeks.org/insertion-sort/
+ * 
+ * Modified by: Ivan Lim
  */
+
 #include <stdio.h> 
   
 /* Function to sort an array using insertion sort*/

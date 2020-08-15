@@ -1,3 +1,10 @@
+/* 
+ * C program for Quick Sort by GeeksforGeeks 
+ * source: https://www.geeksforgeeks.org/quick-sort/
+ * 
+ * Modified by: James Sy
+ */
+
 #include <stdio.h>
 
 int partition(int A[], int low, int high) {

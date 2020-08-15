@@ -1,6 +1,8 @@
 /* 
  * C program for Merge Sort by GeeksforGeeks 
  * source: https://www.geeksforgeeks.org/merge-sort/
+ *  
+ * Modified by: Christopher Lim
  */
 
 #include <stdio.h>

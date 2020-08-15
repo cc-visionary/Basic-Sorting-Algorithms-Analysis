@@ -1,7 +1,10 @@
 /* 
- * C program for bubble Sort by GeeksforGeeks 
+ * C program for Bubble Sort by GeeksforGeeks 
  * source: https://www.geeksforgeeks.org/bubble-sort/
+ *  
+ * Modified by: Ivan Lim
  */
+
 #include <stdio.h> 
 // A function to implement bubble sort 
 unsigned long long bubbleSort(int arr[], int n) { 
