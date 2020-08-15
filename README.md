@@ -65,6 +65,12 @@ Time it took to finish the simulation: 14.5 hours
 
 ## Credits
 - Thanks to GeeksforGeeks for providing an amazing explanation of each sorting method which allowed us to gain a better insight on how each sorting algorithms work.
+  - https://www.geeksforgeeks.org/bubble-sort/
+  - https://www.geeksforgeeks.org/insertion-sort/
+  - https://www.geeksforgeeks.org/selection-sort/
+  - https://www.geeksforgeeks.org/merge-sort/
+  - https://www.geeksforgeeks.org/quick-sort/
+  - https://www.geeksforgeeks.org/radix-sort/
 
 ## Author(s)
   - Christopher G. Lim (lim.christopher.go@gmail.com)
