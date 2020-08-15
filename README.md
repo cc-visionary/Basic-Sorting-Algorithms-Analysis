@@ -7,7 +7,7 @@ This was done to gain a better understanding how each sort performs depending on
 ## Project Summary
 Language used:
 - C (Simulation)
-- Python 3.8.3 (Data Analysis)
+- Python 3.8.3 (Data Visualization)
 
 Time it took to finish the simulation: 14.5 hours
 
