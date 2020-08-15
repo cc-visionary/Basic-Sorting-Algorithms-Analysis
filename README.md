@@ -74,6 +74,6 @@ Time it took to finish the simulation: 14.5 hours
   - https://www.geeksforgeeks.org/radix-sort/
 
 ## Author(s)
-  - Christopher G. Lim (lim.christopher.go@gmail.com)
-  - Ivan Jerwin Lim 
-  - James Matthew Sy
+  - [Christopher G. Lim](https://github.com/cc-visionary)
+  - [Ivan Jerwin Lim](https://github.com/kether82) 
+  - [James Matthew Sy](https://github.com/symatt)
