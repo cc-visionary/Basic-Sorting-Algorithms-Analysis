@@ -1,7 +1,8 @@
 # Basic Sorting Algorithms Analysis
-For this project, we analyze the **Machine Execution Time(MEP)** and **the number of iterations + swaps** of `Bubble Sort`, `Insertion Sort`, `Selection Sort`, `Merge Sort`, `Quick Sort`, and `Radix Sort` Algorithms by _simulating each sorting algorithm given a random valued array of 1024*2^n elements where n = 0 to 9_. This was done to gain a better understanding how each sort performs depending on an increasing number elements.  
+For this project, we analyze the **Machine Execution Time(MEP)** and **the number of iterations + swaps** of `Bubble Sort`, `Insertion Sort`, `Selection Sort`, `Merge Sort`, `Quick Sort`, and `Radix Sort` Algorithms by _simulating each sorting algorithm given a random valued array of 1024*2^n elements where n = 0 to 9_. For each N(10), M(25) iterations was done to get the Average MET(total time for a sorting algorithm / M) and Average Iterations + Swaps(total iterations / M). 
 
-For each N(10), M(25) iterations was done to get the Average MET(total time for a sorting algorithm / M) and Average Iterations + Swaps(total iterations / M).
+## Goal
+This was done to gain a better understanding how each sort performs depending on an increasing number elements.  
 
 ## Project Summary
 Language used:
