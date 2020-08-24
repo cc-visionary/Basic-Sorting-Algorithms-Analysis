@@ -190,10 +190,10 @@ int main () {
         
         for(m = 0; m < N_METHODS; m++) {
             FILE *fp; // outputs the results to a file in "results" folder
-            char title[30] = "./results/";
-            strcat(title, labels[m]);
-            strcat(title, ".txt");
-            fp = fopen(title, "a");
+            char filepath[30] = "./results/"; // set folder name as initial filepath
+            strcat(filepath, labels[m]);      // add filename
+            strcat(filepath, ".txt");         // add filename extension (txt)
+            fp = fopen(filepath, "a");
             average_times[m][n - 1] = total_time[m] / ITER_PER_SIZE;
             average_counters[m][n - 1] = total_counter[m] / ITER_PER_SIZE;
             fprintf(fp, "%d | Average Time Measured (ms): %lf | Average Counter: %.2LF\n", arr_size, average_times[m][n - 1], average_counters[m][n - 1]);
