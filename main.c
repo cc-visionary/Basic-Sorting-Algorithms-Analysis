@@ -7,9 +7,9 @@
 #include <stdio.h>
 #include <time.h>
 #include <string.h>
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <unistd.h>
+#include <sys/types.h> // for folder creation for output
+#include <sys/stat.h>  // for folder creation for output
+#include <unistd.h>    // for folder creation for output
 
 #include "utilities.c"
 #include "generate_data.c"
